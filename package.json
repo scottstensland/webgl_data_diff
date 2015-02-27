@@ -1,0 +1,26 @@
+{
+  "name": "webgl_data_diff",
+  "version": "1.0.0",
+  "description": " interactive WebGL data diff ... typed arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/scottstensland/webgl_data_diff.git"
+  },
+  "keywords": [
+    "webgl",
+    "diff",
+    "typed",
+    "arrays",
+    "interactive"
+  ],
+  "author": "Scott Stensland",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scottstensland/webgl_data_diff/issues"
+  },
+  "homepage": "https://github.com/scottstensland/webgl_data_diff"
+}
